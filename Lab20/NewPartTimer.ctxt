@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NewPartTimer
+comment1.params=name\ employeeID\ workingHour\ hourlyRate\ mpfRate
+comment1.target=NewPartTimer(java.lang.String,\ int,\ int,\ int,\ double)
+comment2.params=
+comment2.target=void\ calculateMpf()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
